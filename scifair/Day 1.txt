@@ -1,0 +1,2 @@
+I started on 9/21/2022.
+I created a prisoners delima simulation and started creating the 8 AIs and 2 Contorl AIs
